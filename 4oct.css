@@ -1,0 +1,33 @@
+/* element selector */
+h1{
+    background-image: url("https://i.pinimg.com/originals/f3/a1/c2/f3a1c2c3c7c96e003d43879429872ba9.jpg");
+    color: palegreen;
+    background-color: black;
+}
+.name{
+    color:deeppink;
+    /* opacity: 0.7; */
+}
+#cloth{
+    color:yellow;
+    background-color:rgba(255,0,0, 0.3);
+}
+h3,h4,strong{
+    background-color: black;
+    color:cyan
+
+}
+h3{
+    border: 10px solid;
+    border-color: red;
+}
+img{
+    height:500px;
+    /* opacity:0.2; */
+}
+/* in this two image are seen because first is finish so second one is started. */
+p{
+    
+    background-image: url("https://i.pinimg.com/originals/f3/a1/c2/f3a1c2c3c7c96e003d43879429872ba9.jpg");
+    background-repeat: repeat-y;
+}

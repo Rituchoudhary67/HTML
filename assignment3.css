@@ -1,0 +1,99 @@
+.heading {
+    color: white;
+    background-color: rgb(46, 215, 215);
+    text-align: center;
+    width: 1400px;
+    height: 50px;
+    font-size: large;
+    
+}
+h2 {
+    text-align: center;
+    padding: 1%;
+   
+}
+.firstImg {
+
+    height: 150px;
+    width: 150px;
+    border: solid 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    margin-left: 25%;
+    margin-right:100px;
+}
+.secondImg {
+    height: 150px;
+    width: 150px;
+    border: dashed 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    border-left: 10%;
+    margin-right: 100px;
+}
+.thirdImg {
+    height: 150px;
+    width: 150px;
+    border: dotted 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    border-left: 15%;
+    margin-right: 150px;
+}
+.fourthImg {
+    height: 150px;
+    width: 150px;
+    border:ridge 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    margin-left: 35%;
+    margin-right:100px;
+}
+.fifthImg {
+    height: 150px;
+    width: 150px;
+    border:groove 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    border-left: 20%;
+    margin-right: 100px;
+}
+.sixthImg {
+    height: 150px;
+    width: 150px;
+    border: double 15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    margin-left: 35%;
+    margin-right:100px;
+}
+.seventhImg {
+    height: 150px;
+    width: 150px;
+    border:15px;
+    border-color: rgb(55, 170, 170);
+    border-width: 10px;
+    border-left: 20%;
+    margin-right: 100px;
+}
+.paragraph {
+     text-align:center;
+     border-top: 8px solid rgb(2, 52, 2);
+    border-bottom: 8px solid blue;
+    border-left: 8px solid red;
+    border-right: 8px solid rgb(224, 40, 215);
+    background-color: rgb(29, 148, 148);
+    color: white;
+   
+}
+td :hover{
+    color: rgb(52, 52, 168);
+    text-decoration: underline;
+    cursor: pointer;
+   
+}
+.table {
+    font-size: large;
+    color:white;
+    background-color: rgb(63, 189, 189);
+}

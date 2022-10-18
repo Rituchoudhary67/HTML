@@ -1,0 +1,37 @@
+.outer {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    position:relative;
+
+}
+.inner1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 0px;
+}
+.inner2 {
+    background-color:blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 100px;
+}
+.inner3 {
+    background-color:green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 200px;
+    text-align: center;
+
+}
+.inner4 {
+    background-color:yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 300px;
+}

@@ -1,0 +1,230 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+.outer {
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+    height: 70px;
+    background-color:#c15355;
+    /* position:relative; */
+    position:fixed;
+    /* right: 0px; */
+   
+
+}
+.sumofthree {
+    position:relative;
+
+
+}
+.A {
+    position: absolute;
+    right: 0px;
+}
+.inner1 {
+   position: absolute;
+   margin: 20px;
+   color: white;
+   font-size: 1.9pc;
+  
+   
+   
+}
+.inner4 {
+    position: absolute;
+    right: 90px;
+    margin: 20px;
+    color: white;
+    font-size: large;
+    
+}
+.inner3 {
+    position: absolute;
+    right: 180px;
+    text-align: center;
+    margin: 20px;
+    color: white;
+    font-size: large;
+}
+.inner2 {
+   
+    position: absolute;
+    right: 280px;
+    font-size: large;
+    margin: 20px;
+    color: white;
+}
+.second {
+    margin: 0;
+    padding: 20px;
+    height: 200px;
+    width: 100%;
+    background-color: #c15355;
+    
+}
+.full {
+    color: white;
+    font-size: 2.9pc;
+    margin-left: 450px;
+    padding: 10px;
+   
+}
+.para {
+    color: white;
+    margin-left: 500px;
+    /* margin-top:40px; */
+}
+.three {
+    padding: 10px;
+    display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+}
+.firstbox {
+    height: 250px;
+    width: 250px;
+    
+}
+.loremfirst {
+    color:#c15355;
+    font-size: large;
+}
+.button {
+    height: 30px;
+    width: 50px;
+    background-color: #c15355;
+    color: white;
+    border: none;
+
+}
+.secondbox {
+    height: 250px;
+    width: 250px;
+}
+.thirdbox {
+    height: 250px;
+    width: 250px; 
+}
+.icon {
+    height: 40px;
+    width: 40px;
+    background-color:rgb(201, 182, 182);
+    border-radius: 25px;
+    text-align-last: center ;
+    padding: 10px;
+    border: 2px solid red;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+.main {
+    height: 600px;
+    width: 100%;
+    padding: 10px;
+    background-color: #c15355;
+}
+.sumoffour {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    /* position: relative; */
+}
+.A1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    justify-content: center;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.image {
+    height: 300px;
+    width: 150px;
+    background-color: #c15355;
+    border: 2px solid gray;  
+}
+.firstpara {
+    font-size: 3pc;
+}
+.combi {
+    color: white;
+    text-align: center;
+}
+.firstpara1 {
+    font-size: 2pc;
+    margin-left: 25px;
+    color: white;
+}
+.magna {
+    color: white;
+   margin-left: 25px;
+}
+.blanktag {
+    height: 100px;
+    width: 100%;
+    color: #c15355;
+    text-align: center;
+}
+.bold {
+    font-size: 30px;
+}
+.last {
+    height: 400px;
+    width: 100%;
+    padding: 15px;
+   
+}
+.lastinner1 {
+    /* position: absolute; */
+    left: 0;
+    margin-bottom: -100px;
+    padding-left: 750px;
+    height: 100px;
+    width: 390px;
+}
+.lastinner2 {
+    /* position:absolute; */
+    right: 0;
+    margin-left: 300px;
+    /* padding-right: 250px; */
+    height: 100px;
+    width: 390px;
+}
+.footer {
+    position: relative;
+    height: 100px;
+    width: 1300px;
+    margin-top: 300px;
+}
+.aircampus {
+    opacity: 0.1px;
+    color:gray;
+    margin-top: 20px;
+    /* padding-left: 30px; */
+}
+.sumoffouricon {
+    position: absolute;
+    right: 0;
+    color: brown;
+}
+.icon1 {
+    padding-right: 25px;
+}
+.icon2 {
+    padding-right: 25px;
+}
+.icon3 {
+    padding-right: 25px;
+}
+.icon4 {
+    padding-right: 25px;
+}
+.imgAir {
+    height: 50px;
+    width: 120px;
+    margin-left: 35px;
+    border-radius: 5px;
+    position: absolute;
+}

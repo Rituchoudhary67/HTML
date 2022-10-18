@@ -1,0 +1,106 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.first {
+    margin: 20px;
+    border-radius: 50px;
+    border: 0px;
+}
+.air {
+    margin-left: 50px;
+    font-size: 2pc;
+}
+.first:hover{
+    background-color: orange;
+    height: 20px;
+    width: auto;
+}
+.Apply {
+    border-radius: 50px;
+    color: orange;
+    background-color: white;
+    border: 1pc;
+    height: 30px;
+    width: auto;
+}
+#fee {
+    margin-left: 600px;
+}
+.head {
+   
+    background-color:lavenderblush;
+    height: 70px;
+    width:auto;
+}
+.gaurante {
+    text-align: center;
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size:10ch;
+    opacity: 0.8;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.highlight {
+    background-color:#f5350a ;
+    height: 100px;
+    width: 700px;
+    border-radius: 29px;
+    margin-left: 350px;
+    color: white;
+}
+.registration {
+    font-size:5ch;
+    justify-content: center;
+}
+.orange {
+    color: #f5350a;
+}
+.Apply2 {
+    color: white;
+    background-color: #eb3b13;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    margin-left: 700px;
+    font-size: 20px;
+}
+.Apply2:hover {
+    background-color: #ff2f00;
+}
+.FCpara:hover {
+       color: #ff2f00;
+}
+/* .containThree{
+    justify-content:flex-start;
+} */
+.firstcontainer {
+    border: 1px solid rgb(231, 195, 182);
+    height: 200px;
+    width: 300px;
+}
+.secondcontainer {
+    border: 1px solid rgb(231, 195, 182);
+    height: 200px;
+    width: 300px;
+}
+.thirdcontainer {
+    border: 1px solid rgb(231, 195, 182);
+    height: 200px;
+    width: 300px; 
+}
+.august {
+    color: #ff2f00;
+    font-size: 2pc;
+}
+.image {
+    margin-left: 135.5px;
+    margin-top: 10px;
+    height:50px;
+    width:100px
+}
+.endofcompaines {
+    text-align: center;
+}

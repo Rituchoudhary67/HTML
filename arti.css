@@ -1,0 +1,288 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.inner1 {
+    background-color: brown;
+    width: 1320px;
+    height: 250px;
+    color: white;
+}
+
+.inner1_div1{
+    padding-top: 70px;
+    font-size: 50px;   
+}
+.assign {
+    padding-left: 80px;
+    padding-top: 30px;
+    float: inline-start;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav {
+    float: end;
+    float: inline-end;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    position: fixed;
+    background-color:rosybrown;
+    width: 1330px;
+}
+
+.Home {
+    padding-left: 800px;
+}
+
+.blog {
+    padding-left: 30px;
+}
+
+.About {
+    float: inline-end;
+    padding-left: 30px;
+    padding-right: 80px;
+}
+
+.inner1_div{
+ 
+padding-left: 500px;
+padding-top: 30px;
+}
+
+.inner1_p{
+    align-items: center;
+    padding-left: 600px;
+    font-size: medium;
+}
+.main{
+    justify-content:space-around ;
+    background-color: white;
+}
+.main_h4{
+    color:brown
+}
+.btn{
+    background-color: brown;
+    border: 0px brown;
+    height: 30px;
+    width: 50px;
+    color: white;
+}
+.main_div1{
+    float:left;
+    padding-left: 290px;
+    padding-top: 50px;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    margin-left: 10px;
+}
+.main_div2{
+    float:left;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}
+.main_div3{
+    float: right;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    padding-right: 290px;
+    background-color: white;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    
+}
+.div3{
+
+    height: 350px;
+    width: 1330px;
+    margin-top: 50px;
+    padding-top: 5;
+    background-color:brown;
+    margin-top: 300px;
+    position: relative;
+    overflow: auto;
+    padding-bottom: 100px;
+}
+.div3_p{
+ color:white;
+ padding-left: 600px;
+ padding-top: 10px;
+ font-size: 27px;
+ padding-bottom: 10px;
+
+}
+.div3_p2{
+    color:white;
+    padding-left: 590px;
+    padding-top: 0px;
+    font-size: 14px;
+    padding-bottom: 0px;
+    
+    
+}
+.img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    padding: 10px;;
+
+}
+fieldset {
+    width: 130px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    box-sizing: border-box;
+    border: solid gainsboro 1px;
+    
+  }
+  
+  .button{
+    position: absolute;
+    bottom: 0;
+    left: 35%;
+    /* transform: translate(-50%, 50%); */
+    padding: 0 5px;
+    background: white;
+  }
+  /* legend {
+    position: absolute;
+    bottom: 0;
+    left: 35%;
+    transform: translate(-50%, 50%);
+    padding: 0 5px;
+    background: white;
+  } */
+  #img1_p{
+    color:white;
+    padding-left: 27px;
+    padding-top: 0px;
+  }
+  .img_div1{
+    position: absolute;
+    left: 0;
+    margin-left: 300px;
+  }
+  .img_div2{
+    position:absolute;
+    left: 0;
+    margin-left: 500px;
+  }
+  .img_div3{
+    position: absolute;
+    left: 0;
+    margin-left:700px;
+  }
+  .img_div4{
+    position: absolute;
+    right: 0;
+    margin-right: 300px;
+  }
+  #img_span{
+    color:gainsboro;
+    padding-left: 5px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+  }
+  .button{
+    height:25px;
+    width:100px;
+  }
+
+
+  .div4{
+    background-color: white;
+    position: relative;
+  }
+  .div4_h2{
+   
+    color: brown;
+  }
+  .div4_p{
+    color: brown;
+  }
+    .div4_p2{
+        color:brown;
+        font-weight: bold;
+        width: 320px;
+        font-size: 14px;
+    }
+    .div4_p3{
+ width: 290px;
+ font-size: 13px;
+    }
+    .div4_inner{
+        text-align: center;
+        margin-top: 50px;
+    }
+  .div4_inner1{
+    position: absolute;
+    left: 0;
+    padding-left: 350px;
+    height: 100px;
+    width: 390px;
+  }
+  .div4_inner2{
+    position:absolute;
+    right: 0;
+    padding-right: 250px;
+    height: 100px;
+    width: 390px;
+  }
+  .div4_img1{
+    height: 120px;
+    width: 250px;
+  }
+  .div4_img2{
+    height: 120px;
+    width: 250px;
+  }
+  .div4_btn{
+    background-color: brown;
+    border: 0px solid brown;
+    color: white;
+  }
+  .div5{
+    position: relative;
+    height: 100px;
+    width: 1300px;
+    margin-top: 300px;
+  }
+  .div5_inner{
+    position: absolute;
+    right: 0;
+color: brown;
+  }
+  .div5_i{
+    opacity: 0.1px;
+    color:gray;
+    padding-left: 30px;
+  }
+  .i1{
+    padding-right: 25px;
+  }
+  .i2{
+    padding-right: 25px;
+  }
+  .i3{
+    padding-right: 25px;
+  }
+  .i4{
+    padding-right: 25px;
+  }

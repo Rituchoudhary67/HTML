@@ -1,0 +1,60 @@
+.para {
+    background-color: black;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:oblique;
+    font-weight:900;
+    font-variant:small-caps;
+    font-size: 50px;
+} 
+.outer {
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    overflow: auto;
+}
+.inner1 {
+         background-color: crimson;
+         height: 400px;
+         width: 100px;
+         float:right;
+
+} 
+.inner2 {
+    background-color: steelblue;
+    height: 200px;
+    width: 300px;
+    /* float:right; */
+    /* clear: left; */
+ } 
+.chat-bot {
+    height: 50px;
+    width: 70%;
+    background-color:orangered;
+    color: white;
+    padding: 5px;
+    position: sticky;
+    top: 15px;
+    border-radius: 20px;
+    /* position: fixed;
+    right: 30px;
+    bottom: 20px; */
+    /* position: fixed; */
+    /* top: 0px; */
+    /* bottom: 70px; */
+/* } */
+/* .chat-bot1 {
+    height: 50px;
+    width: 70%;
+    background-color:rgb(38, 0, 255);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 5px;
+    /* position: fixed;
+    right: 30px;
+    bottom: 20px; */
+    /* position: sticky; */
+    /* top: 0px; */
+    /* bottom: 70px; */
+}*/

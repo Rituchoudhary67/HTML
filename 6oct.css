@@ -1,0 +1,45 @@
+/* .hello{
+    background-color:red;
+}
+.hello p{      /*children and grandchildren */
+/*color: yellow;
+}
+.hello > p{     /*only children*/
+    /*color:darkgreen
+} */
+.hello {
+    background-color: pink;
+    font-size: 30px;
+    height: 1512px;
+    border: 5px solid blue;
+}
+/* .hello1{
+    border: 5px dotted black;
+} */
+/*px stands for pixel.*/
+.he{
+    border: 5px dotted red;
+}
+.hii{
+    border: 5px dashed black;
+}
+.foo{
+    border: 5px double green;
+}
+.nam{
+    border: 5px groove purple;
+}
+.tel{
+    border-style: inset;
+    border-width: 5px;
+    border-color: firebrick;
+}
+.ritu{
+    border-color:royalblue;
+    border-width: 5px;
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-right-style: groove;
+    border-radius: 10px;
+}
